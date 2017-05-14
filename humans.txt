@@ -1,0 +1,10 @@
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <Alejandro Zorita Hernández> -- <IT Manager. Desarrolaldor. SCRUM> -- <@alzort>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
