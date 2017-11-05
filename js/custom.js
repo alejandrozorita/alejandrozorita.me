@@ -15,7 +15,7 @@ jQuery('#loopedSlider').prepend("<a href='#' class='previous'>&lt;</a><a href='#
 // for banner height js
 var windowWidth = $(window).width();
     var windowHeight =$(window).height();
-    $('.banner').css({'width':windowWidth ,'height':windowHeight -"60" });
+    //$('.banner').css({'width':windowWidth ,'height':windowHeight -"60" });
 	
 	
 

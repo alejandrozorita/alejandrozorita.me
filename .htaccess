@@ -12,3 +12,5 @@ ExpiresByType application/x-shockwave-flash "access 1 month"
 ExpiresByType image/x-icon "access 1 year"
 ExpiresDefault "access plus 1 month"
 </IfModule>
+
+ErrorDocument 404 /404.html

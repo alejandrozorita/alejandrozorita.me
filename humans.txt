@@ -2,7 +2,7 @@
 
 # TEAM
 
-    <Alejandro Zorita Hernández> -- <IT Manager. Desarrolaldor. SCRUM> -- <@alzort>
+    <Alejandro Zorita Hernández> -- <IT Manager - SCRUM - Laravel Back-End Developer> -- <@alzort>
 
 # TECHNOLOGY COLOPHON
 
