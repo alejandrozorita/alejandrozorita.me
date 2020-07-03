@@ -1,64 +1,237 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0abcd55e-d199-4544-b9d4-f29f5add3e54" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="0abcd55e-d199-4544-b9d4-f29f5add3e54" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/composerJson.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/alejandrozorita.me.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/alejandrozorita.me.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cgi-bin/test/test.cgi" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/cgi-bin/test/test.cgi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fallback.css" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/fallback.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fallback.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/fallback.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/jquery-ui-1.8.16.custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/jquery-ui-1.8.16.custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/jquery-ui-1.8.16.custom.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/jquery-ui-1.8.16.custom.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/lightbox.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/lightbox.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/loading.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/slideshow.css" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/slideshow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/slideshow.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/slideshow.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv/CV-Alejandro-Zorita.doc" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/cv/CV-Alejandro-Zorita.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv/CV-Alejandro-Zorita.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/cv/CV-Alejandro-Zorita.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv/CV-en-Alejandro-Zorita.doc" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/cv/CV-en-Alejandro-Zorita.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv/CV-en-Alejandro-Zorita.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/cv/CV-en-Alejandro-Zorita.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/humans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public/humans.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ajax-loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/ajax-loader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/alejandro-zorita.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/alejandro-zorita.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/arrow-left-light.png" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/arrow-left-light.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/arrow-left.png" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/arrow-left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/arrow-top-light.png" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/arrow-top-light.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/arrow-top.png" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/arrow-top.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg-black.png" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/bg-black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/closebutton.png" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/closebutton.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/container-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/container-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/left-arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/left-arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/loading.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/map-bro.png" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/map-bro.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/big/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/portfolio/big/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/big/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/portfolio/big/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/big/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/portfolio/big/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/big/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/portfolio/big/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/big/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/portfolio/big/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/big/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/portfolio/big/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/big/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/portfolio/big/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/big/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/portfolio/big/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/right-arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/right-arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/skills.png" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/skills.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider/alejandro-zorita-js.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/slider/alejandro-zorita-js.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider/alejandro-zorita-laravel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/slider/alejandro-zorita-laravel.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider/alejandro-zorita-php.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/slider/alejandro-zorita-php.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.contact.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.contact.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.easing.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.easing.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.easypiechart.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.easypiechart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.easypiechart.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.easypiechart.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.gridrotator.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.gridrotator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.isotope.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.isotope.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.isotope.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.isotope.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.placeholder.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.placeholder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.ui.rlightbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.ui.rlightbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.ui.widget.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.ui.widget.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/modernizr.custom.26633.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/modernizr.custom.26633.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/stickUp.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/stickUp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/php/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/sitemap.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1140300637">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+    </include_path>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
-    </panes>
+  <component name="ProjectId" id="1dV32fg7GfT2voCCLEqI9FihBNN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blog/public" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/sass" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/OLD" />
+      <recent name="$PROJECT_DIR$/blog/public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blog/public" />
+      <recent name="$PROJECT_DIR$/blog/resources" />
+      <recent name="$PROJECT_DIR$/blog/resources/views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -72,40 +245,63 @@
       <updated>1560857937948</updated>
       <workItem from="1560857941113" duration="402000" />
       <workItem from="1561156831934" duration="81000" />
+      <workItem from="1592496234773" duration="6423000" />
+      <workItem from="1592580799281" duration="185000" />
+      <workItem from="1592906373465" duration="10000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="483000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="WindowStateProjectService">
+    <state x="680" y="340" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592527332136">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="680" y="340" key="#com.intellij.fileTypes.FileTypeChooser/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592527332136" />
+    <state x="698" y="302" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1592496593331">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="302" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592496593331" />
+    <state x="624" y="325" key="EditFileWatcherDialog" timestamp="1592526604454">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="325" key="EditFileWatcherDialog/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592526604454" />
+    <state width="1878" height="376" key="GridCell.Tab.0.bottom" timestamp="1592578411057">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.0.bottom/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592578411057" />
+    <state width="1878" height="376" key="GridCell.Tab.0.center" timestamp="1592578411055">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.0.center/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592578411055" />
+    <state width="1878" height="376" key="GridCell.Tab.0.left" timestamp="1592578411050">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.0.left/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592578411050" />
+    <state width="1878" height="376" key="GridCell.Tab.0.right" timestamp="1592578411056">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.0.right/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592578411056" />
+    <state x="631" y="257" key="NewPhpClassDialog" timestamp="1592496857873">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="631" y="257" key="NewPhpClassDialog/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592496857873" />
+    <state x="783" y="466" key="NewPhpFileDialog" timestamp="1592496704755">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="783" y="466" key="NewPhpFileDialog/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592496704755" />
+    <state x="469" y="179" key="SettingsEditor" timestamp="1592496933396">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="179" key="SettingsEditor/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592496933396" />
+    <state x="670" y="153" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592527830413">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="670" y="153" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592527830413" />
+    <state x="668" y="279" width="584" height="522" key="find.popup" timestamp="1592576980422">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="668" y="279" width="584" height="522" key="find.popup/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592576980422" />
   </component>
 </project>

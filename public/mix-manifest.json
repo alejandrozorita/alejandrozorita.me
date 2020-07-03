@@ -1,0 +1,23 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/bootstrap.css": "/css/bootstrap.css",
+    "/css/fallback.css": "/css/fallback.css",
+    "/css/font-awesome.css": "/css/font-awesome.css",
+    "/css/jquery-ui-1.8.16.custom.css": "/css/jquery-ui-1.8.16.custom.css",
+    "/css/lightbox.min.css": "/css/lightbox.min.css",
+    "/css/slideshow.css": "/css/slideshow.css",
+    "/css/style.css": "/css/style.css",
+    "/js/bootstrap.js": "/js/bootstrap.js",
+    "/js/custom.js": "/js/custom.js",
+    "/js/jquery.contact.js": "/js/jquery.contact.js",
+    "/js/jquery.easing.min.js": "/js/jquery.easing.min.js",
+    "/js/jquery.gridrotator.js": "/js/jquery.gridrotator.js",
+    "/js/jquery.isotope.js": "/js/jquery.isotope.js",
+    "/js/jquery.min.js": "/js/jquery.min.js",
+    "/js/jquery.placeholder.js": "/js/jquery.placeholder.js",
+    "/js/jquery.ui.rlightbox.js": "/js/jquery.ui.rlightbox.js",
+    "/js/jquery.ui.widget.min.js": "/js/jquery.ui.widget.min.js",
+    "/js/modernizr.custom.26633.js": "/js/modernizr.custom.26633.js",
+    "/js/stickUp.js": "/js/stickUp.js",
+    "/js/jquery.easypiechart.js": "/js/jquery.easypiechart.js"
+}
