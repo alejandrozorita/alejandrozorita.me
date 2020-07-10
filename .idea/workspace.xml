@@ -2,87 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0abcd55e-d199-4544-b9d4-f29f5add3e54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/composerJson.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/alejandrozorita.me.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/alejandrozorita.me.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgi-bin/test/test.cgi" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/cgi-bin/test/test.cgi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fallback.css" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/fallback.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fallback.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/fallback.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/font-awesome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/jquery-ui-1.8.16.custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/jquery-ui-1.8.16.custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/jquery-ui-1.8.16.custom.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/jquery-ui-1.8.16.custom.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/lightbox.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/lightbox.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/loading.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/slideshow.css" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/slideshow.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/slideshow.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/slideshow.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/css/style.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv/CV-Alejandro-Zorita.doc" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/cv/CV-Alejandro-Zorita.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv/CV-Alejandro-Zorita.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/cv/CV-Alejandro-Zorita.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv/CV-en-Alejandro-Zorita.doc" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/cv/CV-en-Alejandro-Zorita.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv/CV-en-Alejandro-Zorita.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/cv/CV-en-Alejandro-Zorita.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/fonts/FontAwesome.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/humans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public/humans.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ajax-loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/ajax-loader.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/alejandro-zorita.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/alejandro-zorita.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/arrow-left-light.png" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/arrow-left-light.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/arrow-left.png" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/arrow-left.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/arrow-top-light.png" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/arrow-top-light.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/arrow-top.png" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/arrow-top.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bg-black.png" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/bg-black.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/closebutton.png" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/closebutton.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/container-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/container-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/left-arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/left-arrow.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/loading.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/map-bro.png" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/map-bro.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/big/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/portfolio/big/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/big/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/portfolio/big/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/big/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/portfolio/big/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/big/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/portfolio/big/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/big/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/portfolio/big/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/big/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/portfolio/big/6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/big/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/portfolio/big/7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/big/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/portfolio/big/8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/right-arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/right-arrow.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/skills.png" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/skills.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/alejandro-zorita-js.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/slider/alejandro-zorita-js.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/alejandro-zorita-laravel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/slider/alejandro-zorita-laravel.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/alejandro-zorita-php.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/images/slider/alejandro-zorita-php.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/index2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/custom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.contact.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.contact.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.easing.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.easing.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.easypiechart.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.easypiechart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.easypiechart.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.easypiechart.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.gridrotator.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.gridrotator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.isotope.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.isotope.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.isotope.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.isotope.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.placeholder.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.placeholder.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.ui.rlightbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.ui.rlightbox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.ui.widget.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/jquery.ui.widget.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/modernizr.custom.26633.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/modernizr.custom.26633.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/stickUp.js" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/js/stickUp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/php/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OLD/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/fallback.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/jquery-ui-1.8.16.custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/lightbox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/slideshow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/alejandro-zorita-js.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/alejandro-zorita-laravel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/alejandro-zorita-php.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/alejandro-zorita.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/arrow-left-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/arrow-left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/arrow-top-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/arrow-top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/bg-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/closebutton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/container-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/left-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/map-bro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portfolio/big/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portfolio/big/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portfolio/big/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portfolio/big/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portfolio/big/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portfolio/big/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portfolio/big/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portfolio/big/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/right-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/skills.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/slider/alejandro-zorita-js.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/slider/alejandro-zorita-laravel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/slider/alejandro-zorita-php.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/jquery.contact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/jquery.easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/jquery.easypiechart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/jquery.gridrotator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/jquery.isotope.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/jquery.placeholder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/jquery.ui.rlightbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/jquery.ui.widget.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/modernizr.custom.26633.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/stickUp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/mix-manifest.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,6 +177,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1dV32fg7GfT2voCCLEqI9FihBNN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -208,7 +187,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/blog/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -248,6 +227,8 @@
       <workItem from="1592496234773" duration="6423000" />
       <workItem from="1592580799281" duration="185000" />
       <workItem from="1592906373465" duration="10000" />
+      <workItem from="1594390389276" duration="1803000" />
+      <workItem from="1594394510245" duration="1094000" />
     </task>
     <servers />
   </component>
