@@ -33,6 +33,7 @@
   <link
     href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,700,800,300'
     rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
   <!--font-family: 'Open Sans', sans-serif;-->
   <!-- font css style-->
   <link rel="stylesheet" href="{{ asset('css/font-awesome.css') }}">
@@ -456,7 +457,7 @@
                  placeholder="Tu email...">
           <textarea name="comments" id="comments" cols="" rows="" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"
                     placeholder="El mensaje..."></textarea>
-          <input type="submit" id="submit" name="send" class="submitBnt" value="Envíamelo!">
+          <input type="submit" id="submit" name="send" class="submitBnt" value="Enviar">
           <div id="simple-msg"></div>
         </form>
       </div>

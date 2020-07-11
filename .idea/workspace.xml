@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0abcd55e-d199-4544-b9d4-f29f5add3e54" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/alejandrozorita.me.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/alejandrozorita.me.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/custom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/stickUp.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/stickUp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +177,7 @@
       <workItem from="1592580799281" duration="185000" />
       <workItem from="1592906373465" duration="10000" />
       <workItem from="1594390389276" duration="1803000" />
-      <workItem from="1594394510245" duration="6290000" />
+      <workItem from="1594394510245" duration="7647000" />
     </task>
     <servers />
   </component>
@@ -236,17 +229,17 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="783" y="466" key="NewPhpFileDialog/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592496704755" />
-    <state x="469" y="179" key="SettingsEditor" timestamp="1592496933396">
+    <state x="469" y="179" key="SettingsEditor" timestamp="1594457002122">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="469" y="179" key="SettingsEditor/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592496933396" />
+    <state x="469" y="179" key="SettingsEditor/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1594457002122" />
     <state x="670" y="153" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592527830413">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="670" y="153" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592527830413" />
-    <state x="668" y="279" width="584" height="522" key="find.popup" timestamp="1594453846491">
+    <state x="668" y="279" width="584" height="522" key="find.popup" timestamp="1594457358219">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="668" y="279" width="584" height="522" key="find.popup/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1594453846491" />
+    <state x="668" y="279" width="584" height="522" key="find.popup/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1594457358219" />
   </component>
 </project>
