@@ -3,64 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="0abcd55e-d199-4544-b9d4-f29f5add3e54" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/alejandrozorita.me.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/alejandrozorita.me.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OLD/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/OLD/.htaccess" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/fallback.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/jquery-ui-1.8.16.custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/lightbox.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/slideshow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ajax-loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/alejandro-zorita-js.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/alejandro-zorita-laravel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/alejandro-zorita-php.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/alejandro-zorita.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/arrow-left-light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/arrow-left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/arrow-top-light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/arrow-top.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bg-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/closebutton.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/container-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/left-arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/map-bro.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/big/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/big/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/big/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/big/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/big/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/big/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/big/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/portfolio/big/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/right-arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/skills.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/slider/alejandro-zorita-js.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/slider/alejandro-zorita-laravel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/slider/alejandro-zorita-php.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/jquery.contact.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/jquery.easing.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/jquery.easypiechart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/jquery.gridrotator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/jquery.isotope.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/jquery.placeholder.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/jquery.ui.rlightbox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/jquery.ui.widget.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/modernizr.custom.26633.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/stickUp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/mix-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/stickUp.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/stickUp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,6 +125,10 @@
       <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
       <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
       <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-debugbar" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/maximebf/debugbar" />
+      <path value="$PROJECT_DIR$/vendor/biscolab/laravel-recaptcha" />
     </include_path>
   </component>
   <component name="ProjectId" id="1dV32fg7GfT2voCCLEqI9FihBNN" />
@@ -186,6 +141,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -228,7 +184,7 @@
       <workItem from="1592580799281" duration="185000" />
       <workItem from="1592906373465" duration="10000" />
       <workItem from="1594390389276" duration="1803000" />
-      <workItem from="1594394510245" duration="1094000" />
+      <workItem from="1594394510245" duration="6290000" />
     </task>
     <servers />
   </component>
@@ -244,6 +200,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="698" y="302" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592496593331" />
+    <state x="565" y="27" key="CommitChangelistDialog2" timestamp="1594455452577">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="565" y="27" key="CommitChangelistDialog2/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1594455452577" />
+    <state x="192" y="97" key="DiffContextDialog" timestamp="1594454789836">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="192" y="97" key="DiffContextDialog/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1594454789836" />
     <state x="624" y="325" key="EditFileWatcherDialog" timestamp="1592526604454">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -280,9 +244,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="670" y="153" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592527830413" />
-    <state x="668" y="279" width="584" height="522" key="find.popup" timestamp="1592576980422">
+    <state x="668" y="279" width="584" height="522" key="find.popup" timestamp="1594453846491">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="668" y="279" width="584" height="522" key="find.popup/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592576980422" />
+    <state x="668" y="279" width="584" height="522" key="find.popup/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1594453846491" />
   </component>
 </project>

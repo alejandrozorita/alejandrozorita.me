@@ -7,12 +7,12 @@ use Tests\TestCase;
 
 class ExampleTest extends TestCase
 {
-    /**
+    /** @test
      * A basic test example.
      *
      * @return void
      */
-    public function testBasicTest()
+    public function goHome()
     {
         $response = $this->get('/');
 

@@ -57,7 +57,7 @@ function($) {
 	  			} else {
 	  				topMargin = 0;
 	  			}
-	  			menuSize = $('.'+itemClass).size();
+	  			menuSize = $('.'+itemClass).size()-1;
   			}			
 			stickyHeight = parseInt($(this).height());
 			stickyMarginB = parseInt($(this).css('margin-bottom'));
@@ -74,7 +74,6 @@ function($) {
 					function bottomView(i) {
 						contentView = $('#'+content[i]+'').height()*.4;
 						testView = contentTop[i] - contentView;
-						//console.log(varscroll);
 						if(varscroll > testView){
 							$('.'+itemClass).removeClass(itemHover);
 							$('.'+itemClass+':eq('+i+')').addClass(itemHover);

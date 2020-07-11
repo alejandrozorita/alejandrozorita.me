@@ -63,6 +63,9 @@
   ga('send', 'pageview');
 
   </script>
+
+  {!! htmlScriptTagJsApi(['action' => 'contacto']) !!}
+  <meta name="csrf-token" content="{{ csrf_token() }}">
 </head>
 <body>
 <!--wrapper start-->
@@ -76,7 +79,6 @@
           <li><span>Alejandro Zorita Laravel</span></li>
           <li><span>Alejandro Zorita TDD</span></li>
           <li><span>Alejandro Zorita DevOps</span></li>
-
         </ul>
         <!--background slide show end-->
       </div>
@@ -107,9 +109,8 @@
                     <li class="menuItem"><a href="#technical">Skills</a></li>
                     <li class="menuItem"><a href="#exprience">Experiencia</a></li>
                     <li class="menuItem"><a href="#education">Educación</a></li>
-                    <!--<li class="menuItem"><a href="#protfolio">Portfolio</a></li>-->
                     <li class="menuItem"><a href="#contact">Contacto</a></li>
-                    <li class="menuItem"><a href="http://bytecode.es">Blog ByteCode</a></li>
+                    <li class="menuItem"><a href="https://bytecode.es" target="_blank">Blog ByteCode</a></li>
                   </ul>
                 </div>
               </div>
@@ -500,8 +501,7 @@ jQuery(function ($) {
         2: 'technical',
         3: 'exprience',
         4: 'education',
-        5: 'protfolio',
-        6: 'contact'
+        5: 'contact'
       },
       itemClass: 'menuItem',
       itemHover: 'active',
