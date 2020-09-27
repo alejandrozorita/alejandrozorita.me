@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0abcd55e-d199-4544-b9d4-f29f5add3e54" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/Laravel_9_27_20__2_48_PM.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,6 +163,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -177,18 +180,24 @@
       <workItem from="1592580799281" duration="185000" />
       <workItem from="1592906373465" duration="10000" />
       <workItem from="1594390389276" duration="1803000" />
-      <workItem from="1594394510245" duration="7647000" />
+      <workItem from="1594394510245" duration="8355000" />
+      <workItem from="1594714460179" duration="248000" />
+      <workItem from="1601210825003" duration="243000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="680" y="340" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592527332136">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="680" y="340" key="#com.intellij.fileTypes.FileTypeChooser/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592527332136" />
+    <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594714388273">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1594714388273" />
     <state x="698" y="302" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1592496593331">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
