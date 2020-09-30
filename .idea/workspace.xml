@@ -2,11 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0abcd55e-d199-4544-b9d4-f29f5add3e54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/Laravel_9_27_20__2_48_PM.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/laravel-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home/aboutme.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home/contact.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home/education.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home/exprience.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home/portfolio.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home/technical.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/includes/footer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/includes/header.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/includes/menu.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/alejandrozorita.me.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/alejandrozorita.me.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/EmailController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/EmailController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/recaptcha.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/recaptcha.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,10 +139,24 @@
       <path value="$PROJECT_DIR$/vendor/symfony/debug" />
       <path value="$PROJECT_DIR$/vendor/maximebf/debugbar" />
       <path value="$PROJECT_DIR$/vendor/biscolab/laravel-recaptcha" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sendinblue/api-v3-sdk" />
     </include_path>
   </component>
   <component name="ProjectId" id="1dV32fg7GfT2voCCLEqI9FihBNN" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -139,6 +168,11 @@
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -146,6 +180,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/includes" />
       <recent name="$PROJECT_DIR$/resources/sass" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/OLD" />
@@ -183,6 +218,8 @@
       <workItem from="1594394510245" duration="8355000" />
       <workItem from="1594714460179" duration="248000" />
       <workItem from="1601210825003" duration="243000" />
+      <workItem from="1601414923429" duration="2220000" />
+      <workItem from="1601492355918" duration="1266000" />
     </task>
     <servers />
   </component>
@@ -190,18 +227,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="680" y="340" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592527332136">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="680" y="340" key="#com.intellij.fileTypes.FileTypeChooser/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592527332136" />
     <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594714388273">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1594714388273" />
-    <state x="698" y="302" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1592496593331">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="698" y="302" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592496593331" />
     <state x="565" y="27" key="CommitChangelistDialog2" timestamp="1594455452577">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -210,45 +239,17 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="192" y="97" key="DiffContextDialog/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1594454789836" />
-    <state x="624" y="325" key="EditFileWatcherDialog" timestamp="1592526604454">
+    <state x="783" y="466" key="NewPhpFileDialog" timestamp="1601493345042">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="624" y="325" key="EditFileWatcherDialog/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592526604454" />
-    <state width="1878" height="376" key="GridCell.Tab.0.bottom" timestamp="1592578411057">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1878" height="376" key="GridCell.Tab.0.bottom/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592578411057" />
-    <state width="1878" height="376" key="GridCell.Tab.0.center" timestamp="1592578411055">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1878" height="376" key="GridCell.Tab.0.center/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592578411055" />
-    <state width="1878" height="376" key="GridCell.Tab.0.left" timestamp="1592578411050">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1878" height="376" key="GridCell.Tab.0.left/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592578411050" />
-    <state width="1878" height="376" key="GridCell.Tab.0.right" timestamp="1592578411056">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1878" height="376" key="GridCell.Tab.0.right/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592578411056" />
-    <state x="631" y="257" key="NewPhpClassDialog" timestamp="1592496857873">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="631" y="257" key="NewPhpClassDialog/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592496857873" />
-    <state x="783" y="466" key="NewPhpFileDialog" timestamp="1592496704755">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="783" y="466" key="NewPhpFileDialog/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592496704755" />
+    <state x="783" y="466" key="NewPhpFileDialog/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1601493345042" />
     <state x="469" y="179" key="SettingsEditor" timestamp="1594457002122">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="469" y="179" key="SettingsEditor/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1594457002122" />
-    <state x="670" y="153" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592527830413">
+    <state x="668" y="279" width="584" height="550" key="find.popup" timestamp="1601418038620">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="670" y="153" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1592527830413" />
-    <state x="668" y="279" width="584" height="522" key="find.popup" timestamp="1594457358219">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="668" y="279" width="584" height="522" key="find.popup/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1594457358219" />
+    <state x="668" y="279" width="584" height="550" key="find.popup/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1601418038620" />
   </component>
 </project>

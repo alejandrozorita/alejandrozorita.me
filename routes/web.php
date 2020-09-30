@@ -13,4 +13,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 Route::get('/', 'HomeController@home')->name('home');
-Route::post('mandar-email', 'Emailontroller@sendEmail')->name('sendEmail');
+Route::post('mandar-email', 'EmailController@sendEmail')->name('sendEmail');

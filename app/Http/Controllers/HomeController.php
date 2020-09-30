@@ -7,6 +7,7 @@ class HomeController extends Controller
 
     public function home()
     {
-        return view('home');
+        $captcha = config('recaptcha.api_site_key');
+        return view('home',compact('captcha'));
     }
 }

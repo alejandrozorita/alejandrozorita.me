@@ -2,10 +2,26 @@
 
 namespace App\Http\Controllers;
 
+
+use Illuminate\Http\Request;
+use Illuminate\Validation\Validator;
+
 class EmailController extends Controller
 {
-    public function sendEmail()
+    public function sendEmail(Request $request)
     {
+
+dd($request->all());
+        $validator = Validator::make(request()->all(), [
+          'g-recaptcha-response' => 'recaptcha',
+            // OR since v4.0.0
+          recaptchaFieldName() => recaptchaRuleName()
+        ]);
+
+        // check if validator fails
+        if($validator->fails()) {
+            $errors = $validator->errors();
+        }
 
         if ( ! $_POST) {
             exit;
