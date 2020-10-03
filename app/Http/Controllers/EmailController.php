@@ -28,7 +28,7 @@ class EmailController extends Controller
             return redirect(route('home'))
               ->with('success', __('validation.contact_message_send'));
         } catch (\Exception $e) {
-            throw new \Exception($e->getMessage());
+            app('sentry')->captureException($e);
             return redirect(route('home'))
               ->with('error', __('validation.contact_not_send'))
               ->withInput();
