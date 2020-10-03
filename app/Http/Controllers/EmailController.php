@@ -18,6 +18,7 @@ class EmailController extends Controller
      * @param  \App\Http\Requests\MessageContact  $request
      *
      * @return \Illuminate\Contracts\Foundation\Application|\Illuminate\Http\RedirectResponse|\Illuminate\Routing\Redirector
+     * @throws \Exception
      */
     public function sendEmail(MessageContact $request)
     {
@@ -27,6 +28,7 @@ class EmailController extends Controller
             return redirect(route('home'))
               ->with('success', __('validation.contact_message_send'));
         } catch (\Exception $e) {
+            throw new \Exception($e->getMessage());
             return redirect(route('home'))
               ->with('error', __('validation.contact_not_send'))
               ->withInput();
