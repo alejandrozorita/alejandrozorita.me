@@ -2,26 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0abcd55e-d199-4544-b9d4-f29f5add3e54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/laravel-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/home/aboutme.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/home/contact.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/home/education.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/home/exprience.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/home/portfolio.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/home/technical.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/includes/footer.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/includes/header.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/includes/menu.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/emails/contact.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/alejandrozorita.me.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/alejandrozorita.me.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/EmailController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/EmailController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/recaptcha.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/recaptcha.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/lang/en/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/en/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/includes/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/includes/footer.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
@@ -150,7 +141,6 @@
       <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
       <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
       <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
-      <path value="$PROJECT_DIR$/vendor/sendinblue/api-v3-sdk" />
     </include_path>
   </component>
   <component name="ProjectId" id="1dV32fg7GfT2voCCLEqI9FihBNN" />
@@ -219,7 +209,7 @@
       <workItem from="1594714460179" duration="248000" />
       <workItem from="1601210825003" duration="243000" />
       <workItem from="1601414923429" duration="2220000" />
-      <workItem from="1601492355918" duration="1747000" />
+      <workItem from="1601492355918" duration="17194000" />
     </task>
     <servers />
   </component>
@@ -235,21 +225,33 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="565" y="27" key="CommitChangelistDialog2/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1594455452577" />
+    <state x="378" y="319" key="ComposerInitDialogKey" timestamp="1601556331463">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="378" y="319" key="ComposerInitDialogKey/0.0.1280.800@0.0.1280.800" timestamp="1601556331463" />
     <state x="192" y="97" key="DiffContextDialog" timestamp="1594454789836">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="192" y="97" key="DiffContextDialog/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1594454789836" />
-    <state x="783" y="466" key="NewPhpFileDialog" timestamp="1601493345042">
+    <state x="783" y="466" key="NewPhpFileDialog" timestamp="1601595068926">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="783" y="466" key="NewPhpFileDialog/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1601493345042" />
+    <state x="783" y="466" key="NewPhpFileDialog/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1601595068926" />
     <state x="469" y="179" key="SettingsEditor" timestamp="1594457002122">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="469" y="179" key="SettingsEditor/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1594457002122" />
-    <state x="668" y="279" width="584" height="550" key="find.popup" timestamp="1601418038620">
+    <state x="771" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601746730416">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="668" y="279" width="584" height="550" key="find.popup/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1601418038620" />
+    <state x="771" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1601746730416" />
+    <state x="668" y="279" width="584" height="550" key="find.popup" timestamp="1601595400337">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="668" y="279" width="584" height="550" key="find.popup/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1601595400337" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1601661643851">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1601661643851" />
   </component>
 </project>
