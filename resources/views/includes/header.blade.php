@@ -64,6 +64,15 @@
   ga('send', 'pageview');
 
   </script>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GE58H7DDN5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GE58H7DDN5');
+</script>
 
   {!! htmlScriptTagJsApi(['action' => 'contacto']) !!}
   <meta name="csrf-token" content="{{ csrf_token() }}">
