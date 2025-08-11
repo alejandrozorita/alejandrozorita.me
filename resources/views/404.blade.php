@@ -15,16 +15,7 @@
   <meta name="Title" content="Alejandro Zorita - Laravel Back-End Developer">
   <meta name="description" content="Alejandro Zorita - Laravel Back-End Developer. Desarrollador Laravel - Desarrollador en Madrid, España. Metodologías TDD, GIT, SCRUM, DevOps.">
   <meta name="keywords" content="Alejandro Zorita, Laravel, Back-end, Madrid, España, php, scrum, tdd, git, programador laravel">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-  <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
-  <!--background slider style-->
-  <link rel="stylesheet" type="text/css" href="css/slideshow.css" />
-  <!--google font style-->
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,700,800,300' rel='stylesheet' type='text/css'>
-  <!--font-family: 'Open Sans', sans-serif;-->
-  <!-- font css style-->
-  <link rel="stylesheet" href="css/font-awesome.css">
-  <!--for slider style-->
+  <link rel="stylesheet" href="{{ mix('css/app.css') }}">
   <link rel="shortcut icon" type="image/png" href="/images/alejandro-zorita.jpg"/>
   <noscript>
     <link rel="stylesheet" type="text/css" href="css/fallback.css" />
@@ -136,68 +127,8 @@
 <!--wrapper end-->
 <!--modernizr js-->
 <script type="text/javascript" src="js/modernizr.custom.26633.js"></script>
-<!--jquary min js-->
-<script type="text/javascript" src="js/jquery.min.js"></script>
-<script src="js/bootstrap.js"></script>
-<script type="text/javascript" src="js/jquery.gridrotator.js"></script>
-<!--for custom jquary-->
-<script src="js/custom.js"></script>
-<!--for placeholder jquary-->
-<script type="text/javascript" src="js/jquery.placeholder.js"></script>
-<!--for menu jquary-->
-<script type="text/javascript" src="js/stickUp.js"></script>
-<script type="text/javascript">
-jQuery(function($) {
-  $(document).ready( function() {
-    //enabling stickUp on the '.navbar-wrapper' class
-    $('.navbar-wrapper').stickUp({
-      parts: {
-        0: 'banner',
-        1: 'aboutme',
-        2: 'technical',
-        3: 'exprience',
-        4: 'education',
-        5: 'protfolio',
-        6: 'contact'
-      },
-      itemClass: 'menuItem',
-      itemHover: 'active',
-      topMargin: 'auto'
-    });
-  });
-
-  $( ".navbar.navbar-inverse.navbar-static-top a" ).click(function() {
-    $( ".navbar-collapse" ).addClass( "hideClass" );
-  });
-
-
-  $( ".navbar.navbar-inverse.navbar-static-top a" ).click(function() {
-    $( ".navbar-collapse" ).addClass( "collapse" );
-  });
-
-
-  $( ".navbar.navbar-inverse.navbar-static-top a" ).click(function() {
-    $( ".navbar-collapse" ).removeClass( "in" );
-  });
-
-  $( ".navbar-toggle" ).click(function() {
-    $( ".navbar-collapse" ).removeClass( "hideClass" );
-  });
-
-
-});
-</script>
-<!--for portfoli filter jquary-->
-<script src="js/jquery.isotope.js" type="text/javascript"></script>
-<!--for portfoli lightbox -->
-<link type="text/css" rel="stylesheet" id="theme" href="css/jquery-ui-1.8.16.custom.css">
-<link type="text/css" rel="stylesheet" href="css/lightbox.min.css">
-<script type="text/javascript" src="js/jquery.ui.widget.min.js"></script>
-<script type="text/javascript" src="js/jquery.ui.rlightbox.js"></script>
-<!--for skill chat jquary-->
-<script src="js/jquery.easing.min.js"></script>
-<script src="js/jquery.easypiechart.js"></script>
-<!--contact form js-->
-<script type="text/javascript" src="js/jquery.contact.js"></script>
+<script src="{{ mix('js/manifest.js') }}" defer></script>
+<script src="{{ mix('js/vendor.js') }}" defer></script>
+<script src="{{ mix('js/app.js') }}" defer></script>
 </body>
 </html>

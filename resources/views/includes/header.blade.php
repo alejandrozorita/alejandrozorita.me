@@ -24,20 +24,11 @@
   <meta name="keywords"
         content="Alejandro Zorita, Laravel, Back-end, Madrid, España, php, scrum, tdd, git, programador laravel">
 
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-  <link rel="stylesheet" type="text/css" media="screen" href="{{ asset('css/style.css') }}">
-  <!--background slider style-->
-  <link rel="stylesheet" type="text/css" href="{{ asset('css/slideshow.css') }}"/>
-  <!--google font style-->
-  <link
-    href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,700,800,300'
-    rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="{{ mix('css/app.css') }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-  <!--font-family: 'Open Sans', sans-serif;-->
-  <!-- font css style-->
-  <link rel="stylesheet" href="{{ asset('css/font-awesome.css') }}">
-  <!--for slider style-->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap" rel="stylesheet">
 
   <link rel="shortcut icon" type="image/png" href="{{ asset('images/alejandro-zorita.jpg') }}"/>
   <noscript>
